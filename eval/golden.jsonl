@@ -1,0 +1,44 @@
+{"q": "How long is the warranty on the EV battery?", "relevant": [["doc_03_warranty", "Electric Vehicle Battery Warranty"]], "keywords": ["8 years", "160,000"]}
+{"q": "Is paint damage from scratches covered?", "relevant": [["doc_03_warranty", "Paintwork Warranty"]], "keywords": ["scratch"]}
+{"q": "Is rust covered by the warranty?", "relevant": [["doc_03_warranty", "Corrosion Warranty"]], "keywords": ["12 years"]}
+{"q": "Can I extend my warranty?", "relevant": [["doc_03_warranty", "Extended Warranty"]], "keywords": ["dealer"]}
+{"q": "Are brake pads and tires covered under the standard warranty?", "relevant": [["doc_03_warranty", "Standard Warranty"]], "keywords": ["not"]}
+{"q": "How often do I need an oil change?", "relevant": [["doc_02_service_maintenance", "Standard Service Schedule"]], "keywords": ["15,000", "12 months"]}
+{"q": "When should the brake fluid be replaced?", "relevant": [["doc_02_service_maintenance", "Standard Service Schedule"], ["doc_02_service_maintenance", "Electric Vehicles"]], "keywords": ["2 years"]}
+{"q": "Do electric cars need oil changes?", "relevant": [["doc_02_service_maintenance", "Electric Vehicles"]], "keywords": ["no"]}
+{"q": "How does the car know when it needs a service?", "relevant": [["doc_02_service_maintenance", "General"]], "keywords": ["condition"]}
+{"q": "Do you sell prepaid maintenance plans?", "relevant": [["doc_02_service_maintenance", "General"]], "keywords": ["5 years"]}
+{"q": "How long does fast charging from 10 to 80 percent take?", "relevant": [["doc_05_electric_vehicles", "Charging Options"]], "keywords": ["35 minutes"]}
+{"q": "What wallbox power options exist for charging at home?", "relevant": [["doc_05_electric_vehicles", "Charging Options"]], "keywords": ["11 kW", "22 kW"]}
+{"q": "What is the driving range of your electric cars?", "relevant": [["doc_05_electric_vehicles", "General"]], "keywords": ["400", "630"]}
+{"q": "Are there tax benefits for an electric company car?", "relevant": [["doc_05_electric_vehicles", "Government Incentives"]], "keywords": ["tax"]}
+{"q": "How much deposit do I pay when ordering a car?", "relevant": [["doc_04_ordering_process", "3. Order Placement"]], "keywords": ["10%"]}
+{"q": "How long does it take to build my car after I order?", "relevant": [["doc_04_ordering_process", "4. Production & Delivery"]], "keywords": ["10 weeks"]}
+{"q": "Can I still change my order after signing?", "relevant": [["doc_04_ordering_process", "General"], ["doc_01_vehicle_features", "General"]], "keywords": ["production"]}
+{"q": "Can I pick up the car directly at the factory?", "relevant": [["doc_04_ordering_process", "4. Production & Delivery"]], "keywords": ["factory"]}
+{"q": "Do you offer leasing for business customers?", "relevant": [["doc_04_ordering_process", "Financing Options"]], "keywords": ["leasing"]}
+{"q": "Which wheel sizes are available?", "relevant": [["doc_01_vehicle_features", "Exterior"]], "keywords": ["17", "21"]}
+{"q": "Can I use my phone as a car key?", "relevant": [["doc_01_vehicle_features", "Technology Packages"]], "keywords": ["key"]}
+{"q": "What materials can I choose for the interior trim?", "relevant": [["doc_01_vehicle_features", "Interior"]], "keywords": ["carbon"]}
+{"q": "When is the hotline open on Saturdays?", "relevant": [["doc_06_customer_support", "Customer Hotline"]], "keywords": ["9", "17"]}
+{"q": "My car broke down at night, can anyone help me?", "relevant": [["doc_06_customer_support", "Roadside Assistance"]], "keywords": ["24/7"]}
+{"q": "How quickly do you reply to emails?", "relevant": [["doc_06_customer_support", "Online Support"]], "keywords": ["48"]}
+{"q": "What can I do if my complaint isn't resolved?", "relevant": [["doc_06_customer_support", "Complaint Process"]], "keywords": ["ombudsman"]}
+{"q": "And for the paintwork?", "history": [["user", "How long is the standard warranty?"], ["assistant", "The standard warranty lasts 2 years with unlimited mileage [1]."]], "relevant": [["doc_03_warranty", "Paintwork Warranty"]], "keywords": ["3 years"]}
+{"q": "How long does it last?", "history": [["user", "What does the corrosion warranty cover?"], ["assistant", "It covers perforation corrosion, meaning rust-through from the inside out [1]."]], "relevant": [["doc_03_warranty", "Corrosion Warranty"]], "keywords": ["12 years"]}
+{"q": "How do I activate it?", "history": [["user", "Do you offer roadside assistance?"], ["assistant", "Yes, roadside assistance is available 24/7, 365 days a year [1]."]], "relevant": [["doc_06_customer_support", "Roadside Assistance"]], "keywords": ["app"]}
+{"q": "What about electric cars?", "history": [["user", "How often is the engine oil service?"], ["assistant", "Every 15,000 km or 12 months, whichever comes first [1]."]], "relevant": [["doc_02_service_maintenance", "Electric Vehicles"]], "keywords": ["oil"]}
+{"q": "What is the price of a Tesla Model 3?", "relevant": [], "keywords": []}
+{"q": "Who won the 2022 football World Cup?", "relevant": [], "keywords": []}
+{"q": "How much horsepower does your top model have?", "relevant": [], "keywords": []}
+{"q": "Can you recommend a good restaurant in Munich?", "relevant": [], "keywords": []}
+{"q": "SOS button", "kind": "keyword", "relevant": [["doc_06_customer_support", "Roadside Assistance"]], "keywords": []}
+{"q": "What does CBS mean?", "kind": "keyword", "relevant": [["doc_02_service_maintenance", "General"]], "keywords": ["condition"]}
+{"q": "PHEV models", "kind": "keyword", "relevant": [["doc_05_electric_vehicles", "General"]], "keywords": []}
+{"q": "WLTP range", "kind": "keyword", "relevant": [["doc_05_electric_vehicles", "General"]], "keywords": ["630"]}
+{"q": "balloon financing", "kind": "keyword", "relevant": [["doc_04_ordering_process", "Financing Options"]], "keywords": []}
+{"q": "head-up display", "kind": "keyword", "relevant": [["doc_01_vehicle_features", "Technology Packages"]], "keywords": []}
+{"q": "ombudsman", "kind": "keyword", "relevant": [["doc_06_customer_support", "Complaint Process"]], "keywords": []}
+{"q": "perforation corrosion", "kind": "keyword", "relevant": [["doc_03_warranty", "Corrosion Warranty"]], "keywords": ["12"]}
+{"q": "cabin air filter interval", "kind": "keyword", "relevant": [["doc_02_service_maintenance", "Standard Service Schedule"]], "keywords": ["20,000"]}
+{"q": "200 kW", "kind": "keyword", "relevant": [["doc_05_electric_vehicles", "Charging Options"]], "keywords": []}

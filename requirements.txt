@@ -1,0 +1,7 @@
+langchain-core
+langchain-ollama
+langchain-chroma
+langgraph
+rank-bm25
+streamlit
+pytest
